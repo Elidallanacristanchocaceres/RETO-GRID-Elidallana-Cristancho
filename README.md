@@ -32,5 +32,10 @@ Para ver la galería, abre el archivo index.html en tu navegador web. Asegúrate
 ### Estilo
 El diseño de la galería utiliza una paleta de colores oscuros con acentos brillantes para resaltar los videos e imágenes. El archivo style.css contiene todas las reglas de estilo necesarias para lograr la apariencia deseada.
 
-# 📱 Contacto
-  Para cualquier pregunta o comentario sobre el proyecto, por favor contacta con [Elidallana Cristancho] a través de [cristanchodayana062017@gmail.com].
+____
+### 📬 Contacto
+- 📧 Correo electrónico: cristanchodayana062017@gmail.com
+
+- 💼 LinkedIn: [Elidallana Cristancho Caceres](https://www.linkedin.com/in/elidallanacristancho/)
+
+¡Gracias por ser parte de esta aventura! 🚀✨
